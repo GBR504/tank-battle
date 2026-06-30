@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Project-specific: exclude personal files unrelated to the game
+IMG_*.jpg
+IMG_*.png
+*.jpeg
+
+# Trae internal tooling (keep documents, ignore transient)
+.trae/test/
